@@ -1,0 +1,2 @@
+# QR-Generator
+Using Python 
