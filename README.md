@@ -42,4 +42,4 @@ QR Generated :
 6. The generated QR code will be saved in the specified location with the provided name.
 
 ## Author
-This solar system visualization program was created by Yogita Beniwal.
+This Qr generator program was created by Yogita Beniwal.
